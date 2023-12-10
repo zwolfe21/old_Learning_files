@@ -1,0 +1,2 @@
+Remeber to study the inital chapter on arithmetic operators to understand
+exactly what they do. This is chapter 3
